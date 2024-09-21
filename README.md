@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clastii
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning python, HTML
+- 🌱 I’m currently learning Python, HTML
 - 📫 How to reach me -> Not at all
 - 😄 Pronouns: he/she/it
 - ⚡ Fun fact: The sky is blue
